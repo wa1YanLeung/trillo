@@ -1,7 +1,7 @@
 # Trillo
 ## Hotel landing page
 
-https://grand-real-estate.netlify.app/
+https://trillo21.netlify.app/
 
 This project is from the course Advanced CSS and Sass at Udemy.com
 
